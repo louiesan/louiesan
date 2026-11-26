@@ -16,8 +16,11 @@ I believe the best way to learn is by building, experimenting, and continuously 
 - ⚛️ Working with React, Next.js, TypeScript, and Node.js.
 - 🗄️ Exploring backend architecture, databases, authentication, and API development.
 - 🎨 Interested in interactive interfaces, animations, and 3D web experiences.
-- 🎓 Studying Information Security at University Dr. Moulay Tahar.
-- 🌱 Always learning and building new things.
+- 🎓Currently studying **Information Security** at **Dr. Moulay Tahar University of Saida**
+- 🚀Experienced in **web application security** (OWASP Top 10, XSS, CSRF) and **secure API design**
+- 🔎Focused on clean architecture, maintainable code, and performance
+- 🤝Open to collaboration on web development and open-source projects
+
 
 ---
 
@@ -68,11 +71,14 @@ A deployed frontend demo showcasing interactive 3D elements and modern web anima
 
 ## 📚 Currently Exploring
 
+- Scalable full-stack system architecture
+- Penetration testing & offensive security fundamentals (CTFs, vulnerability assessment)
+- Network security & threat analysis
+- Performance optimization for modern web apps
 - Backend architecture and application design.
-- Authentication and authorization systems.
-- Database design and optimization.
 - Real-time web applications.
 - Interactive web experiences with Three.js.
+  
 
 ---
 
