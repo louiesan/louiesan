@@ -25,19 +25,25 @@ I believe the best way to learn is by building, experimenting, and continuously 
 
 **Frontend Development**
 
-![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind,redux)
 
 **Backend Development**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Auth.js](https://img.shields.io/badge/Auth.js-purple?style=for-the-badge)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-black?style=for-the-badge)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=black)
 
 **Tools & Technologies**
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,cloudflare)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,cloudflare,postman,docker)
 
 **Interactive Web Development**
 
-![Creative](https://skillicons.dev/icons?i=threejs)
+![Creative](https://skillicons.dev/icons?i=threejs,blender)
+[Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
